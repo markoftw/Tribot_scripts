@@ -1,3 +1,5 @@
+*For educational purposes only*
+
 # Tribot_scripts
 Some of my Oldschool Runescape Tribot Scripts
 
